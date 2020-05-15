@@ -5,10 +5,10 @@ import os
 
 import numpy as np
 
-fileName = "photos/p.jpg"
+filename = "photos/p.jpg"
 scale_percent = 20
 image = None
-image = read.read_photo(image, fileName, scale_percent)
+image = read.read_photo(image, filename, scale_percent)
 
 
 pixelBrightness = []
