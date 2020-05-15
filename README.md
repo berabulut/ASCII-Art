@@ -1,14 +1,19 @@
-I tested only at command prompt of Windows 10.
-I don't know that if it's going to work at any other shell.
+**I tested only at command prompt of Windows 10.** <br>
+**I don't know that if it's going to work at any other shell.** <br>
 
-If you like to test the program you might have to find suitable settings for your shell.
+**If you like to test the program you might have to find suitable settings for your shell.** <br>
 
 To run program give absolute path, path from reprository root of the photo or drop it to same directory with the main.py.
 And you have to update the "filename" variable of main.py.
 
 You can start it with : python main.py
+1. First you need to choose which setting you are going to print. Enter 1,2 or 3. <br>
+2. Then you will be asked do you want inverted brightness. Enter 'y' or 'n'. <br>
+3. Decide that you are going to continue program. Enter 'y' or 'n'. <br>
+4. If yes you will return first option. <br>
 
-**Couple of examples**: 
+**Couple of examples**:
+
 
 <img src = "./examples/ex3.png"></img><br>
 
