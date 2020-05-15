@@ -34,8 +34,10 @@ def print_image(image, dictionary, secenek, devam = 'h'):
                 print(dictionary['%d' % pixelBrightness], end='')
                 print(dictionary['%d' % pixelBrightness], end='')
                 print(dictionary['%d' % pixelBrightness], end='')
+                print(dictionary['%d' % pixelBrightness], end='')
 
             elif (pixelBrightness % 4 == 1):
+                print(dictionary['%d' % (pixelBrightness - 1)], end='')
                 print(dictionary['%d' % (pixelBrightness - 1)], end='')
                 print(dictionary['%d' % (pixelBrightness - 1)], end='')
                 print(dictionary['%d' % (pixelBrightness - 1)], end='')
@@ -44,8 +46,10 @@ def print_image(image, dictionary, secenek, devam = 'h'):
                 print(dictionary['%d' % (pixelBrightness - 2)], end='')
                 print(dictionary['%d' % (pixelBrightness - 2)], end='')
                 print(dictionary['%d' % (pixelBrightness - 2)], end='')
+                print(dictionary['%d' % (pixelBrightness - 2)], end='')
 
             elif (pixelBrightness % 4 == 3):
+                print(dictionary['%d' % (pixelBrightness - 3)], end='')
                 print(dictionary['%d' % (pixelBrightness - 3)], end='')
                 print(dictionary['%d' % (pixelBrightness - 3)], end='')
                 print(dictionary['%d' % (pixelBrightness - 3)], end='')

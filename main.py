@@ -5,8 +5,8 @@ import os
 
 import numpy as np
 
-filename = "photos/p.jpg"
-scale_percent = 20
+filename = "photos/photo.jpeg"
+scale_percent = 11
 image = None
 image = read.read_photo(image, filename, scale_percent)
 
