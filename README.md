@@ -1,7 +1,7 @@
-**I tested only at command prompt of Windows 10.**
-**I don't know that if it's going to work at any other shell.**
+**I tested only at command prompt of Windows 10.** <br>
+**I don't know that if it's going to work at any other shell.** <br>
 
-**If you like to test the program you might have to find suitable settings for your shell.**
+**If you like to test the program you might have to find suitable settings for your shell.** <br>
 
 To run program give absolute path, path from reprository root of the photo or drop it to same directory with the main.py.
 And you have to update the "filename" variable of main.py.
