@@ -12,21 +12,21 @@ You can start it with : python main.py
 
 <img src = "./examples/ex3.png"></img><br>
 
-1. [2nd option](./examples/ex3.2.png)<br>
-2. [3rd option inversed brightness](./examples/ex3.3r.png)<br>
+* [2nd option](./examples/ex3.2.png)<br>
+* [3rd option inversed brightness](./examples/ex3.3r.png)<br>
 
 
 <img src = "./examples/ex2.png"></img><br>
 
-1.[2nd option](./examples/ex2.2.png)<br>
-2.[3rd option inversed brightness](./examples/ex2.3r.png)<br>
+* [2nd option](./examples/ex2.2.png)<br>
+* [3rd option inversed brightness](./examples/ex2.3r.png)<br>
 
 
 <img src = "./examples/ex1.png"></img><br>
 
-1.[1st option](./examples/ex1.1.png)<br>
-2.[1st option inversed brightness](./examples/ex1.1r.png)<br>
-3.[2nd option](./examples/ex1.2.png)<br>
-4.[2nd option inversed brightness](./examples/ex1.2r.png)<br>
-5.[3rd option](./examples/ex3.3.png)<br>
-6.[3rd option inversed brightness](./examples/ex3.3r.png)<br>
+* [1st option](./examples/ex1.1.png)<br>
+* [1st option inversed brightness](./examples/ex1.1r.png)<br>
+* [2nd option](./examples/ex1.2.png)<br>
+* [2nd option inversed brightness](./examples/ex1.2r.png)<br>
+* [3rd option](./examples/ex3.3.png)<br>
+* [3rd option inversed brightness](./examples/ex3.3r.png)<br>
