@@ -7,8 +7,13 @@ To run program give absolute path, path from reprository root of the photo or dr
 And you have to update the "filename" variable of main.py.
 
 You can start it with : python main.py
+1. First you need to choose which setting you are going to print. Enter 1,2 or 3.
+2. Then you will be asked do you want inverted brightness. Enter 'y' or 'n'.
+3. Decide that you are going to continue program. Enter 'y' or 'n'.
+4.If yes you will return first option.
 
-**Couple of examples**: 
+**Couple of examples**:
+
 
 <img src = "./examples/ex3.png"></img><br>
 
