@@ -4,9 +4,12 @@ I don't know that if it's going to work at any other shell.
 If you like to test the program you might have to find suitable settings for your shell.
 
 To run program give absolute path, path from reprository root of the photo or drop it to same directory with the main.py.
+And you have to update the "filename" variable of main.py.
+
+You can start it with : python main.py
 
 **Couple of examples**: 
 
-<img src = "./examples/ex1.png"></img>
-<img src = "./examples/ex2.png"></img>
 <img src = "./examples/ex3.png"></img>
+<img src = "./examples/ex2.png"></img>
+<img src = "./examples/ex1.png"></img>
