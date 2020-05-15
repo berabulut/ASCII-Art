@@ -11,5 +11,15 @@ You can start it with : python main.py
 **Couple of examples**: 
 
 <img src = "./examples/ex3.png"></img>
+1. [2nd option](./examples/ex3.2.png)
+2. [3rd option inversed brightness](./examples/ex3.3r.png)
 <img src = "./examples/ex2.png"></img>
+1.[2nd option](./examples/ex2.2.png)
+2.[3rd option inversed brightness](./examples/ex2.3r.png)
 <img src = "./examples/ex1.png"></img>
+1.[1st option](./examples/ex1.1.png)
+2.[1st option inversed brightness](./examples/ex1.1r.png)
+3.[2nd option](./examples/ex1.2.png)
+4.[2nd option inversed brightness](./examples/ex1.2r.png)
+5.[3rd option](./examples/ex3.3.png)
+6.[3rd option inversed brightness](./examples/ex3.3r.png)
