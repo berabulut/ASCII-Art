@@ -1,6 +1,6 @@
 import cv2
 
-def read_photo(image, filename, scale_percent):
+def load_photo(image, filename, scale_percent):
     image = cv2.imread(filename)
     print("IMAGE LOADED SUCCESSFULLY")
     print("IMAGE SIZE : %d x %d " % (image.shape[0], image.shape[1]))
