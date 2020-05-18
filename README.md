@@ -3,8 +3,8 @@
 
 **If you'd like to test the program you might have to find suitable settings for your shell.** <br>
 
-To run program give absolute path, path from the directory root of the photo or drop it to same directory with the main.py.
-And you have to update the "filename" variable of main.py.
+To run program you have to update **"filename"** variable of main.py with picture's absolute path, path from the directory root or you can drop it to same directory with the main.py.
+
 
 You can start it with : python main.py
 1. First you need to choose which setting you are going to print. Enter 1,2 or 3. <br>
