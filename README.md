@@ -9,7 +9,7 @@ To run program you have to update **"filename"** variable of main.py with pictur
 You can start it with : python main.py
 1. First you need to choose which setting you are going to print. Enter 1,2 or 3. <br>
 2. Then you will be asked do you want inverted brightness. Enter 'y' or 'n'. <br>
-3. Decide that you are going to continue program. Enter 'y' or 'n'. <br>
+3. Decide are you going to continue program. Enter 'y' or 'n'. <br>
 4. If yes you will return first option. <br>
 
 **Couple of examples**:
