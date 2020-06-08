@@ -27,7 +27,7 @@ You can start it with : python main.py
 * [3rd option inversed brightness](./examples/ex2.3r.png)<br>
 
 
-<img src = "./examples/ex1.png"></img><br>
+<img src = "./examples/ex1.1.1.png"></img><br>
 
 * [1st option](./examples/ex1.1.png)<br>
 * [1st option inversed brightness](./examples/ex1.1r.png)<br>
